@@ -1,8 +1,8 @@
 {
   "nickname"  : "IchiryuBot",
-  "channel"   : "#bonkler",
+  "channel"   : "#wonted",
   "nicknames" : ["IchiryuBot", "Ichiryu", "ichiryu", "ichiryubot"],
-  "logroot"   : "/home/jtsay/ichiryu/test-logs/",
+  "logroot"   : "/home/dustin/ichiryu/wonted-logs/",
   "server"    : "irc.rizon.net",
   "port"      : 6667
 }
